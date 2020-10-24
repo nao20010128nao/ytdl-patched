@@ -23,6 +23,7 @@ jobs:
         run: |
           sudo snap install ipfs
           ipfs init
+          ( ipfs daemon & ) &
           ipfs cat /ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/readme
       - name: Install deps
         working-directory: devscripts/upload-ipfs/
