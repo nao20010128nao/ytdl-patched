@@ -1,0 +1,19 @@
+{
+  "versions": {
+    "2021.05.09.1620528682": {
+      "bin": [
+        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1620528682/youtube-dl",
+        "1a5550cfe1b7927ae897fd038dfefcd66843069360801ec493fd6a4008ac0594"
+      ],
+      "tar": [
+        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1620528682/youtube-dl.tar.gz",
+        "eef896d7b41f8e23ed802be77356437dc162c53d8faa570e93d07fb029d618e5"
+      ],
+      "exe": [
+        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1620528682/youtube-dl-red.exe",
+        "e05123ea370a35c3b14a9f604ed446b0ea212ec40b1174ca2c1396de82e08f09"
+      ]
+    }
+  },
+  "latest": "2021.05.09.1620528682"
+}
